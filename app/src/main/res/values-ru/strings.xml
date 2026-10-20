@@ -2639,4 +2639,8 @@
     <string name="settings_min_duration_minutes">%1$d мин %2$d сек</string>
     <string name="settings_min_duration_seconds">%1$d секунд</string>
     <string name="settings_min_duration_minutes_only">%1$d минут</string>
+    <string name="folder_blocked_success">Заблокированые папки: %1$s</string>
+    <string name="folder_whitelisted_success">Разрешённые папки: %1$s</string>
+    <string name="error_folder_add_failed">Не удалось найти путь к папке. Пожалуйста, выберите другую папку.</string>
+    <string name="playback_quality_dialog_title">Качество воспроизведения аудио</string>
 </resources>
