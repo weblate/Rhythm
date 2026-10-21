@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Rhythm</string>
     <!-- Common Labels -->
-    <string name="home">Главная страница</string>
+    <string name="home">Главная</string>
     <string name="library">Библиотека</string>
     <string name="search">Поиск</string>
     <!-- Media3 notification configuration -->
