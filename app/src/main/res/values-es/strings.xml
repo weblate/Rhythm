@@ -157,7 +157,7 @@
     <string name="notification_updater_available_text">🆕 Una nueva versión de Rhythm ya está aquí.</string>
     <string name="notification_sleep_timer_channel_name">Rhythm Temporizador de apagado</string>
     <string name="notification_sleep_timer_channel_desc">Cuenta regresiva y estado de las acciones del temporizador de apagado</string>
-    <string name="notification_sleep_timer_title">Rhythm Temporizador de apagado</string>
+    <string name="notification_sleep_timer_title">Rhythm Temporizador de apagado activado</string>
     <string name="notification_sleep_timer_pause_in">⏸ Pausa en %1$s</string>
     <string name="notification_sleep_timer_stop_in">⏹ Parando en %1$s</string>
     <!-- Streaming Notifications -->
@@ -2855,4 +2855,13 @@
     <string name="expressiveplayerscreen_artwork_embedded_toast">¡La obra de arte está integrada en el archivo del disco!</string>
     <string name="expressiveplayerscreen_artwork_applied_toast">¡La obra de arte se ha añadido a la biblioteca!</string>
     <string name="expressiveplayerscreen_artwork_applied">¡Arte aplicado!</string>
+    <string name="settings_notifications_system_group">Ajustes del sistema</string>
+    <string name="settings_library_operations_notifications">Ajustes de las biblioteca y respaldos</string>
+    <string name="settings_smart_playlist_recently_added">Recientemente añadida</string>
+    <string name="settings_smart_playlist_recently_added_desc">Últimas canciones añadidas en tu biblioteca</string>
+    <string name="settings_smart_playlist_on_repeat">En bucle</string>
+    <string name="settings_smart_playlist_forgotten_favorites_desc">Canciones favoritas que no has escuchado recientemente</string>
+    <string name="settings_save_top_songs_as_playlist">Guardar en lista de reproducción</string>
+    <string name="playlist_on_repeat">En bucle</string>
+    <string name="playlist_recently_played">Recientemente escuchadas</string>
 </resources>
